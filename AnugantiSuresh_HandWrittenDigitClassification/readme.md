@@ -7,7 +7,7 @@ The aim of this project is to classify or is to identify the handwritten digits 
 ## MNIST dataset:
 MNIST is a collection of handwritten digits from 0-9. Image of size 28 X 28
 
-<img src ="https://github.com/sureshmecad/Handwritten-Digit-Classification/blob/main/Hand_Written_01.JPG">
+<img src ="https://github.com/sureshmecad/Handwritten-Digit-Classification/blob/main/AnugantiSuresh_HandWrittenDigitClassification/Hand_Written_01.JPG">
 
 ## Code Requirements:
 
@@ -43,7 +43,7 @@ MNIST is a collection of handwritten digits from 0-9. Image of size 28 X 28
     
     
 ## Output of the model:
-<img src ="https://github.com/sureshmecad/Handwritten-Digit-Classification/blob/main/Hand_Written.JPG">
+<img src ="https://github.com/sureshmecad/Handwritten-Digit-Classification/blob/main/AnugantiSuresh_HandWrittenDigitClassification/Hand_Written.JPG">
 
 ## Conclusion:
 
